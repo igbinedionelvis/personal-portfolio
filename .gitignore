@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# OS metadata
+*.log
+
+# Node/npm (if you use JavaScript later)
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Other
+.env
