@@ -8,8 +8,6 @@ Welcome to my personal portfolio website, built using HTML, CSS, and Flexbox. Th
 
 ---
 
-## 📁 Project Structure
-
 ---
 ## 📁 Project Structure
 
