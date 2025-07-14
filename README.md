@@ -4,7 +4,7 @@ Welcome to my personal portfolio website, built using HTML, CSS, and Flexbox. Th
 
 ### 🔗 Live Site
 
-[👉 View Portfolio Live](https://igbinedionelvis.github.io/elvis-portfolio/)  
+[👉 View Portfolio Live](https://igbinedionelvis.github.io/personal-portfolio/)  
 
 ---
 
@@ -40,7 +40,7 @@ Deployed using **GitHub Pages**:
 ---
 ## ✨ Future Enhancements
 
-- Add project filtering or categories
+- Adding projects filtering and categories
 - Integrate with backend (Node, Flask, or Firebase)
 - Add contact form with email support
 
@@ -49,8 +49,8 @@ Deployed using **GitHub Pages**:
 
 I'm Elvis Igbinedion, a creative developer with expertise in:
 - Data Science & Python
-- Movie Recommendation Engines
-- Earthquake Dashboards (Tableau)
-- Welding & Woodwork
+- Machine Learning
+- HTML & CSS
+
 
 
